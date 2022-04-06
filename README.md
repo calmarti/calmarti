@@ -1,5 +1,9 @@
 ### Iván Martínez C.
 
+- 🔭 I just completed a full stack web bootcamp ... and survived 😄!
+- 🌱 I’m currently looking for an entry-position anywhere in Spain (either remote or not)
+- 📫 You can learn more about me here: https://www.linkedin.com/in/calmarti-full-stack-developer/
+
 <!--
 **calmarti/calmarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
