@@ -1,6 +1,7 @@
 ### Iván Martínez C.
 
 - 🔭 I just completed a full stack web bootcamp ... and survived 😄!
+- 🌱 Below you can take a look at some of the projects I developed during the bootcamp
 - 🌱 I’m currently looking for an entry-position anywhere in Spain 
 - 📫 You can learn more about me here: https://www.linkedin.com/in/calmarti-full-stack-developer/
 
