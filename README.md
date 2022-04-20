@@ -6,10 +6,9 @@
 - 👯 My goal: translate my non-IT experience into valuable products for a team from which I can continue learning
 - 📫 You can learn more about me here: https://www.linkedin.com/in/calmarti-full-stack-developer/
 
-<!--
-**calmarti/calmarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--**calmarti/calmarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 
 
 <p align="center">
