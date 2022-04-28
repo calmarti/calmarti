@@ -1,14 +1,54 @@
-### Iván Martínez C.
+### Iván Martínez C.  
+## Desarrollador Full Stack Web Junior
 
-- 🔭 I just completed a full stack web bootcamp ... and survived 😄!
-- 🌱 Below you can take a look at some of the projects I have developed (most of them during the bootcamp)
-- 🤔 I’m currently looking for an entry-position in Spain
-- 👯 My goal: translate my non-IT experience into valuable products for a team from which I can continue learning
-- 📫 You can learn more about me here: https://www.linkedin.com/in/calmarti-full-stack-developer/
+## Acerca de mi :raising_hand_man:
 
+Incursioné en el desarrollo web comenzó de manera autodidacta, durante la pandemia, y seguí durante el bootcamp full stack de Keepcoding que finalizó en marzo. 
+
+## Mi objetivo :airplane:
+Convertir mi experiencia y formación en valor relevante para un equipo que me brinde la oportunidad de evolucionar como desarrollador
+ 
+## Mi experiencia no-IT :bank:
+
+-Durante varios años trabajé como economista en el sector bancario de Venezuela, seis de ellos en la filial del BBVA de mi país de origen. 
+Allí trabajé en contextos bilingues y aprendí a orientar mi trabajo a maximizar el valor entregado al cliente con el mínimo consumo de recursos 
+(filosofía LEAN). 
+
+-Desde mi llegada a España he trabajado además como traductor y, por primera vez, como profesor de inglés. En este último rol aprendí a empatizar para entender las necesidades del alumno, y a comunicarle mis ideas de manera clara y concisa.
+
+## Stack :martial_arts_uniform:
+
+**Front**: HTML5, CSS3, SASS, Javascript (ESNext), Bootstrap, React (clases y hooks) y Redux
+**Back**: Nodejs, MongoDB, MySQL
+**Testing**: Jest
+**Control de versiones**: Git y GitHub (tanto trabajando sólo como dentro de un equipo)
+**Linux**: nivel usuario avanzado (Ubuntu)
+**DevOps**: AWS (EC2), Nginx, protocolo SSH, Supervisor  
+**Patrones de diseño de software**: MVC y PubSub
+
+Estoy familiarizado a nivel básico con las siguientes tecnologías: PHP, SQL, Docker, Webpack, JQuery, CSS-in-JS (ej. styled-components), Web Components y Wordpress.
+
+Estoy familiarizado con (e intento aplicar) principios como clean code, DRY y KISS
+
+## Algunos de mis proyectos :mega: 
+
+### Bootcamp
+-MVP de tienda online en React con componentes funcionales y hooks (chollopop-react)
+-MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber (chollopop-vanilla-js)
+-Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS (estrimix)
+-Extensión de "chollopop-react" usando Redux (chollopop-react-redux)
+-Desarrollo de API y backend para tienda online (chollopop-backend-avanzado)
+-Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol usando sólo Javascript vanilla (euroUEFAsimulator)
+
+### Personales
+-Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask (simulador-enigma)
+-TODO list con React y Ant Design
+
+## Contacto  📫
+- LinkedIn: https://www.linkedin.com/in/calmarti-full-stack-developer/
+- Email: calmartivan@gmail.com
 
 <!--**calmarti/calmarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 
 
 <p align="center">
