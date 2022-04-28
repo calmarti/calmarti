@@ -82,7 +82,6 @@ http://todolistreact.calmartiportfolio.com
 
 <!--**calmarti/calmarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
 <p align="center">
 <a href="https://github.com/[calmarti]">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calmarti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
