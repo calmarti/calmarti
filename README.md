@@ -1,5 +1,7 @@
 # Iván Martínez C.  
 ## Desarrollador Full Stack Web Junior
+ :house_with_garden: Vigo, Pontevedra
+:fast_forward: Disponibilidad inmediata para cambiar de ciudad :heavy_check_mark:
 
 ---
 
