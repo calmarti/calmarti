@@ -5,18 +5,18 @@
 
 ## Acerca de mi :raising_hand_man:
 
-Tras incursionar incursionar de forma autodidacta en el desarrollo web (durante el confinamiento), me sumergí de lleno en este mundo durante 10 arduos meses de bootcamp full stack que recién he acabado
+Tras incursionar de forma autodidacta en el desarrollo web (durante el confinamiento), me sumergí de lleno en este mundo durante 10 arduos meses de bootcamp full stack que recién he acabado
 
 ## Mi objetivo :airplane:
 Convertir mi experiencia y formación en valor relevante para un equipo que me brinde la oportunidad 
  
 ## Mi experiencia no-IT :bank:
 
--Durante varios años trabajé como economista en el sector bancario de Venezuela, seis de ellos en la filial del BBVA de mi país de origen. 
+- Durante varios años trabajé como economista en el sector bancario de Venezuela, seis de ellos en la filial del BBVA. 
 Allí trabajé en contextos bilingues y aprendí a maximizar el valor entregado al cliente con el mínimo consumo de recursos 
 (filosofía LEAN). 
 
--Desde mi llegada a España he trabajado además como traductor y, por primera vez, como profesor de inglés. En este rol aprendí a empatizar con mis alumnos, para entender sus necesidades y comunicarle claramente mis ideas
+- Desde mi llegada a España he trabajado además como traductor y, por primera vez, como profesor de inglés. En este rol aprendí a empatizar con mis alumnos, entender sus necesidades y comunicarle claramente mis ideas
 
 ## Stack :martial_arts_uniform:
 
@@ -26,7 +26,7 @@ Allí trabajé en contextos bilingues y aprendí a maximizar el valor entregado 
 
 **Testing**: Jest
 
-**Control de versiones**: Git y GitHub (tanto trabajando sólo como dentro de un equipo)
+**Control de versiones**: Git y GitHub (sólo y en equipo)
 
 **Linux**: nivel usuario avanzado (Ubuntu)
 
