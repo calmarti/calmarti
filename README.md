@@ -36,7 +36,7 @@ Allí trabajé en contextos bilingues y aprendí a maximizar el valor entregado 
 
 Conozco y he utilizado las siguientes tecnologías: Python, PHP, Docker, Webpack, JQuery, Web Components y Wordpress.
 
-Suelo aplicar principios como clean code, DRY y KISS
+Suelo aplicar prácticas como clean code, DRY y KISS
 
 
 ## Algunos de mis proyectos :mega: 
