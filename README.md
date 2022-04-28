@@ -50,26 +50,26 @@ Demo:
 http://chollopopreact.calmartiportfolio.com
 ```
 
-- MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber (chollopop-vanilla-js)
+- MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber - repo: chollopop-vanilla-js
 
-- Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS (estrimix)
+- Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS - repo: estrimix
 
 <!-- -Extensión de "chollopop-react" usando Redux (chollopop-react-redux)-->
 
-- Desarrollo de API y backend para tienda online (chollopop-backend-avanzado)
+- Desarrollo de API y backend para tienda online con Express y MongoDB - repo: chollopop-backend-avanzado
 
-- Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol usando sólo Javascript vanilla (euroUEFAsimulator)
+- Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol usando sólo Javascript vanilla - repo: euroUEFAsimulator
 
 ### Personales
 
-- Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask (simulador-enigma)
+- Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask - repo: simulador-enigma
 
 Demo:
 ```sh
 https://b4r4th30nspa.pythonanywhere.com/
 ```
 
-- TODO list con React y Ant Design
+- TODO list con React y Ant Design (repo: todolist-react)
 
 Demo:
 ```sh
