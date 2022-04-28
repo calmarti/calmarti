@@ -10,9 +10,14 @@
 
 Tras incursionar de forma autodidacta en el desarrollo web (durante el confinamiento), me sumergí de lleno en este mundo durante 10 arduos meses de bootcamp full stack que recién he acabado
 
+---
+
 ## Mi objetivo :airplane:
 Convertir mi experiencia y formación en valor relevante para un equipo que me brinde la oportunidad de iniciarme en el oficio
- 
+
+
+---
+
 ## Mi experiencia no-IT :bank:
 
 - Durante varios años trabajé como economista en el sector bancario de Venezuela, seis de ellos en la filial del BBVA. 
@@ -41,6 +46,7 @@ Conozco y he utilizado las siguientes tecnologías: Python, PHP, Docker, Webpack
 
 Suelo aplicar prácticas como clean code, DRY y KISS
 
+---
 
 ## Algunos de mis proyectos :mega: 
 
@@ -84,6 +90,8 @@ Demo:
 ```sh
 http://todolistreact.calmartiportfolio.com
 ```
+
+---
 
 ## Contacto  📫
 - LinkedIn: https://www.linkedin.com/in/calmarti-full-stack-developer/
