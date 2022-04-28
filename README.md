@@ -1,5 +1,7 @@
-### Iván Martínez C.  
+# Iván Martínez C.  
 ## Desarrollador Full Stack Web Junior
+
+---
 
 ## Acerca de mi :raising_hand_man:
 
