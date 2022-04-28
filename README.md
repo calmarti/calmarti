@@ -36,6 +36,13 @@ Estoy familiarizado con (e intento aplicar) principios como clean code, DRY y KI
 
 ### Bootcamp
 -MVP de tienda online en React con componentes funcionales y hooks (chollopop-react)
+
+Demo:
+
+```sh
+http://chollopopreact.calmartiportfolio.com
+```
+
 -MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber (chollopop-vanilla-js)
 -Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS (estrimix)
 -Extensión de "chollopop-react" usando Redux (chollopop-react-redux)
@@ -44,7 +51,17 @@ Estoy familiarizado con (e intento aplicar) principios como clean code, DRY y KI
 
 ### Personales
 -Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask (simulador-enigma)
+
+Demo:
+```sh
+https://b4r4th30nspa.pythonanywhere.com/
+```
 -TODO list con React y Ant Design
+
+Demo:
+```sh
+http://todolistreact.calmartiportfolio.com
+```
 
 ## Contacto  📫
 - LinkedIn: https://www.linkedin.com/in/calmarti-full-stack-developer/
