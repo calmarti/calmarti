@@ -26,6 +26,8 @@ Allí trabajé en contextos bilingues y aprendí a maximizar el valor entregado 
 
 - Desde mi llegada a España he trabajado además como traductor y, por primera vez, como profesor de inglés. En este rol aprendí a empatizar con mis alumnos, entender sus necesidades y comunicarles claramente mis ideas
 
+---
+
 ## Stack :martial_arts_uniform:
 
 **Front**: HTML5, CSS3, SASS, CSS-in-JS, Javascript, Bootstrap, React (clases y hooks) y Redux
@@ -96,6 +98,8 @@ http://todolistreact.calmartiportfolio.com
 ## Contacto  📫
 - LinkedIn: https://www.linkedin.com/in/calmarti-full-stack-developer/
 - Email: calmartivan@gmail.com
+
+---
 
 <!--**calmarti/calmarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
