@@ -8,7 +8,7 @@
 Tras incursionar incursionar de forma autodidacta en el desarrollo web (durante el confinamiento), me sumergí de lleno en este mundo durante 10 arduos meses de bootcamp full stack que recién he acabado
 
 ## Mi objetivo :airplane:
-Convertir mi experiencia y formación en valor relevante para un equipo que me brinde la oportunidad de poner de dar mis primeros pasos en el mundillo
+Convertir mi experiencia y formación en valor relevante para un equipo que me brinde la oportunidad de poder de dar mis primeros pasos en el mundillo
  
 ## Mi experiencia no-IT :bank:
 
