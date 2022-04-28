@@ -55,7 +55,7 @@ user: user@user.com
 password: 123
 ```
 
-- MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  --- repo: chollopop-vanilla-js
+- MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  --- [chollopop-vanilla-js](https://github.com/calmarti/chollopop-vanilla-js)
 
 - Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS  --- [estrimix](https://github.com/calmarti/estrimix)
 
