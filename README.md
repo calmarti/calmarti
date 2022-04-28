@@ -30,7 +30,7 @@ Allí trabajé en contextos bilingues y aprendí a maximizar el valor entregado 
 
 **Linux**: nivel usuario avanzado (Ubuntu)
 
-**DevOps**: AWS (EC2), Nginx, protocolo SSH, Supervisor  
+**Pseudo-DevOps**: AWS (EC2), Nginx, protocolo SSH, Supervisor  
 
 **Patrones de diseño de software**: MVC y PubSub
 
