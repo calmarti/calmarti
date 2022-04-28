@@ -20,7 +20,7 @@ Allí trabajé en contextos bilingues y aprendí a maximizar el valor entregado 
 
 ## Stack :martial_arts_uniform:
 
-**Front**: HTML5, CSS3, SASS, Javascript (ESNext), Bootstrap, React (clases y hooks) y Redux
+**Front**: HTML5, CSS3, SASS, CSS-in-JS, Javascript (ESNext), Bootstrap, React (clases y hooks) y Redux
 
 **Back**: Nodejs, MongoDB, MySQL
 
@@ -34,9 +34,10 @@ Allí trabajé en contextos bilingues y aprendí a maximizar el valor entregado 
 
 **Patrones de diseño de software**: MVC y PubSub
 
-Estoy familiarizado a nivel básico con las siguientes tecnologías: PHP, SQL, Docker, Webpack, JQuery, CSS-in-JS (ej. styled-components), Web Components y Wordpress.
+Estoy familiarizado a nivel básico con las siguientes tecnologías: PHP, Docker, Webpack, JQuery, Web Components y Wordpress.
 
-Estoy familiarizado con (e intento aplicar) principios como clean code, DRY y KISS
+Suelo aplicar principios como clean code, DRY y KISS
+
 
 ## Algunos de mis proyectos :mega: 
 
