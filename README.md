@@ -8,7 +8,7 @@
 Tras incursionar de forma autodidacta en el desarrollo web (durante el confinamiento), me sumergí de lleno en este mundo durante 10 arduos meses de bootcamp full stack que recién he acabado
 
 ## Mi objetivo :airplane:
-Convertir mi experiencia y formación en valor relevante para un equipo que me brinde la oportunidad 
+Convertir mi experiencia y formación en valor relevante para un equipo que me brinde la oportunidad de iniciarme en el oficio
  
 ## Mi experiencia no-IT :bank:
 
@@ -42,7 +42,7 @@ Suelo aplicar principios como clean code, DRY y KISS
 ## Algunos de mis proyectos :mega: 
 
 ### Bootcamp
--MVP de tienda online en React con componentes funcionales y hooks (chollopop-react)
+- MVP de tienda online en React con componentes funcionales y hooks (chollopop-react)
 
 Demo:
 
@@ -50,26 +50,26 @@ Demo:
 http://chollopopreact.calmartiportfolio.com
 ```
 
--MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber (chollopop-vanilla-js)
+- MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber (chollopop-vanilla-js)
 
--Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS (estrimix)
+- Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS (estrimix)
 
 <!-- -Extensión de "chollopop-react" usando Redux (chollopop-react-redux)-->
 
--Desarrollo de API y backend para tienda online (chollopop-backend-avanzado)
+- Desarrollo de API y backend para tienda online (chollopop-backend-avanzado)
 
--Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol usando sólo Javascript vanilla (euroUEFAsimulator)
+- Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol usando sólo Javascript vanilla (euroUEFAsimulator)
 
 ### Personales
 
--Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask (simulador-enigma)
+- Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask (simulador-enigma)
 
 Demo:
 ```sh
 https://b4r4th30nspa.pythonanywhere.com/
 ```
 
--TODO list con React y Ant Design
+- TODO list con React y Ant Design
 
 Demo:
 ```sh
