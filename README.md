@@ -20,7 +20,7 @@ Allí trabajé en contextos bilingues y aprendí a maximizar el valor entregado 
 
 ## Stack :martial_arts_uniform:
 
-**Front**: HTML5, CSS3, SASS, CSS-in-JS, Javascript (ESNext), Bootstrap, React (clases y hooks) y Redux
+**Front**: HTML5, CSS3, SASS, CSS-in-JS, Javascript, Bootstrap, React (clases y hooks) y Redux
 
 **Back**: Nodejs, MongoDB, MySQL
 
