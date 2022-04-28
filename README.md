@@ -16,7 +16,7 @@ Convertir mi experiencia y formación en valor relevante para un equipo que me b
 Allí trabajé en contextos bilingues y aprendí a maximizar el valor entregado al cliente con el mínimo consumo de recursos 
 (filosofía LEAN). 
 
-- Desde mi llegada a España he trabajado además como traductor y, por primera vez, como profesor de inglés. En este rol aprendí a empatizar con mis alumnos, entender sus necesidades y comunicarle claramente mis ideas
+- Desde mi llegada a España he trabajado además como traductor y, por primera vez, como profesor de inglés. En este rol aprendí a empatizar con mis alumnos, entender sus necesidades y comunicarles claramente mis ideas
 
 ## Stack :martial_arts_uniform:
 
