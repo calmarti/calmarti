@@ -54,7 +54,7 @@ http://chollopopreact.calmartiportfolio.com
 
 -Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS (estrimix)
 
--Extensión de "chollopop-react" usando Redux (chollopop-react-redux)
+<!-- -Extensión de "chollopop-react" usando Redux (chollopop-react-redux)-->
 
 -Desarrollo de API y backend para tienda online (chollopop-backend-avanzado)
 
