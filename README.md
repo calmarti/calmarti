@@ -42,7 +42,7 @@ Suelo aplicar prácticas como clean code, DRY y KISS
 ## Algunos de mis proyectos :mega: 
 
 ### Bootcamp
-- MVP de tienda online en React con componentes funcionales y hooks  --- repo: [chollopop-react](https://github.com/calmarti/chollopop-react)
+- MVP de tienda online en React con componentes funcionales y hooks  ---  [chollopop-react](https://github.com/calmarti/chollopop-react)
 
 Demo:
 
@@ -57,24 +57,25 @@ password: 123
 
 - MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  --- repo: chollopop-vanilla-js
 
-- Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS  ---- repo: estrimix
+- Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS  --- [estrimix](https://github.com/calmarti/estrimix)
 
 <!-- -Extensión de "chollopop-react" usando Redux (chollopop-react-redux)-->
 
-- Desarrollo de API y backend para tienda online con Express y MongoDB  --- repo: chollopop-backend-avanzado
+- Desarrollo de API y backend para tienda online con Express y MongoDB  ---  [chollopop-backend-avanzado](https://github.com/calmarti/chollopop-backend-avanzado)
 
-- Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol usando sólo Javascript vanilla --- repo: euroUEFAsimulator
+- Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol usando sólo Javascript vanilla --- [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
+
 
 ### Personales
 
-- Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  ---  repo: simulador-enigma
+- Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  --- [simulador-enigma](https://github.com/calmarti/simulador-enigma)
 
 Demo:
 ```sh
 https://b4r4th30nspa.pythonanywhere.com/
 ```
 
-- TODO list con React y Ant Design  --- repo: todolist-react
+- TODO list con React y Ant Design  --- [todolist-react](https://github.com/calmarti/todolist-react)
 
 Demo:
 ```sh
