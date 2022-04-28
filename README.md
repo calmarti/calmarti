@@ -50,6 +50,11 @@ Demo:
 http://chollopopreact.calmartiportfolio.com
 ```
 
+```sh 
+user: user@user.com
+password: 123
+```
+
 - MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  --- repo: chollopop-vanilla-js
 
 - Frontend de web de streaming "Estrimix" usando únicamente HTML y CSS  ---- repo: estrimix
