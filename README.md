@@ -79,7 +79,7 @@ password: 123
 
 ### Personales
 
-- Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  --- [simulador-enigma](https://github.com/calmarti/simulador-enigma)
+- Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  --- [simulador-enigma](https://github.com/calmarti/Enigma-flask)
 
 Demo:
 ```sh
