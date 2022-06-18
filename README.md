@@ -13,7 +13,7 @@ Tras incursionar de forma autodidacta en el desarrollo web (durante el confinami
 ---
 
 ## Mi objetivo :airplane:
-Convertir mi experiencia y formación en valor relevante para un equipo que me brinde la oportunidad de iniciarme en el oficio
+Convertir mi experiencia y formación en valor relevante mientras aprendo nuevas tecnologías y evoluciono como desarrollador. 
 
 
 ---
