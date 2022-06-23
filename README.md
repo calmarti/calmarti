@@ -58,7 +58,7 @@ Suelo aplicar prácticas como clean code, DRY y KISS
 Demo:
 
 ```sh
-http://chollopopreact.calmartiportfolio.com
+https://chollopopreact.calmartiportfolio.com
 ```
 
 ```sh 
@@ -90,7 +90,7 @@ https://b4r4th30nspa.pythonanywhere.com/
 
 Demo:
 ```sh
-http://todolistreact.calmartiportfolio.com
+https://todolistreact.calmartiportfolio.com
 ```
 
 ---
