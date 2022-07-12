@@ -54,7 +54,7 @@ Suelo aplicar prácticas como clean code, DRY y KISS
 
 - MVP de tienda online en React con componentes funcionales y hooks  ---  [chollopop-react](https://github.com/calmarti/chollopop-react)
 
-Demo:
+Demo online:
 
 ```sh
 https://chollopopreact.calmartiportfolio.com
@@ -78,14 +78,14 @@ password: 123
 
 - Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  --- [simulador-enigma](https://github.com/calmarti/Enigma-flask)
 
-Demo:
+Demo online:
 ```sh
 https://b4r4th30nspa.pythonanywhere.com/
 ```
 
 - TODO list con React y Ant Design  --- [todolist-react](https://github.com/calmarti/todolist-react)
 
-Demo:
+Demo online:
 ```sh
 https://todolistreact.calmartiportfolio.com
 ```
