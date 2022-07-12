@@ -52,7 +52,6 @@ Suelo aplicar prácticas como clean code, DRY y KISS
 
 ## Algunos de mis proyectos :mega: 
 
-### Bootcamp
 - MVP de tienda online en React con componentes funcionales y hooks  ---  [chollopop-react](https://github.com/calmarti/chollopop-react)
 
 Demo:
@@ -76,8 +75,6 @@ password: 123
 
 - Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol usando sólo Javascript vanilla --- [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
 
-
-### Personales
 
 - Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  --- [simulador-enigma](https://github.com/calmarti/Enigma-flask)
 
