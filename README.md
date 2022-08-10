@@ -50,7 +50,7 @@ Suelo aplicar prácticas como clean code, DRY y KISS
 
 ---
 
-## Algunos de mis proyectos :mega: 
+## Proyectos :mega: 
 
 - MVP de tienda online en React con componentes funcionales y hooks  ---  [chollopop-react](https://github.com/calmarti/chollopop-react)
 
