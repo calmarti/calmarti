@@ -1,5 +1,6 @@
 # Iván Martínez C.  
-## Desarrollador Full Stack Web Junior
+### Frontend Associate Consultant at Bosonit
+
  :house_with_garden: Vigo, Pontevedra
  
 :trolleybus: Disponibilidad inmediata para cambiar de ciudad :heavy_check_mark:
