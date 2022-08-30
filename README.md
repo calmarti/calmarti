@@ -3,7 +3,7 @@
 
  :house_with_garden: Vigo, Pontevedra
  
-:trolleybus: Disponibilidad inmediata para cambiar de ciudad :heavy_check_mark:
+<!-- :trolleybus: Disponibilidad inmediata para cambiar de ciudad :heavy_check_mark: -->
 
 ---
 
