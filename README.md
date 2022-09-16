@@ -1,5 +1,5 @@
 # Iván Martínez C.  
-### Associate Consultant at Bosonit
+### Frontend Associate Consultant at Bosonit
 
  :house_with_garden: Vigo, Pontevedra
  
