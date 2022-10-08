@@ -9,7 +9,7 @@
 
 ## Acerca de mi :raising_hand_man:
 
-Tras incursionar de forma autodidacta en el desarrollo web (durante el confinamiento), me sumergí de lleno en este mundo durante un bootcamp full stack que recién he acabado
+Tras incursionar de forma autodidacta en el desarrollo web, me sumergí de lleno en este mundo durante un bootcamp full stack que recién he acabado
 
 ---
 
