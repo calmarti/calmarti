@@ -8,8 +8,9 @@
 ---
 
 ## Acerca de mi :raising_hand_man:
+Soy desarrollador web full stack con vocacion al Frontend. 
+Tras incursionar de forma autodidacta en la programación, me sumergí de lleno en el desarrollo web a través del bootcamp web de KeepCoding. 
 
-Tras incursionar de forma autodidacta en el desarrollo web, me sumergí de lleno en este mundo durante un bootcamp full stack que recién he acabado
 
 ---
 
