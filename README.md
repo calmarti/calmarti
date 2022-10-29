@@ -34,7 +34,7 @@ Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregad
 
 ## Stack :martial_arts_uniform:
 
-**Front**: HTML5, CSS3, Javascript, Bootstrap, React (clases y hooks) y Redux
+**Front**: HTML5, CSS3, Javascript, Typescript, React (clases y hooks), Redux y Angular
 
 **Back**: Nodejs, MongoDB, MySQL
 
@@ -48,7 +48,7 @@ Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregad
 
 **Patrones de diseño de software**: MVC y PubSub
 
-Conozco y he utilizado las siguientes tecnologías: Python, PHP, Docker, Webpack, JQuery, Web Components y Wordpress.
+Conozco y he utilizado las siguientes tecnologías: SQL, Python, PHP, Docker, Webpack, JQuery, Web Components y Wordpress.
 
 Suelo aplicar prácticas como clean code y DRY
 
