@@ -71,13 +71,11 @@ password: 123
 
 - MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  --- [chollopop-vanilla-js](https://github.com/calmarti/chollopop-vanilla-js)
 
-- Frontend de web de streaming usando únicamente HTML y CSS  --- [estrimix](https://github.com/calmarti/estrimix)
-
 <!-- -Extensión de "chollopop-react" usando Redux (chollopop-react-redux)-->
 
 - Desarrollo de API y backend para tienda online con Express y MongoDB  ---  [chollopop-backend-avanzado](https://github.com/calmarti/chollopop-backend-avanzado)
 
-- Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol usando sólo Javascript vanilla --- [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
+- Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol en Javascript vanilla --- [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
 
 
 - Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  --- [simulador-enigma](https://github.com/calmarti/Enigma-flask)
