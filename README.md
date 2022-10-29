@@ -12,7 +12,7 @@ Soy desarrollador web full stack con vocacion de Frontend.
 
 Tras incursionar de forma autodidacta en la programación, me sumergí de lleno en el desarrollo web a través de un bootcamp full stack web. 
 
-En Bosonit oriento mi esfuerzo a diversificar mi stack de tecnologías, así como al desarrollo de habilidades blandas. 
+En Bosonit oriento me he dedicado a diversificar mi stack de tecnologías, y al desarrollo de habilidades blandas. 
 
 ---
 
