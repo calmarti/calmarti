@@ -8,9 +8,9 @@
 ---
 
 ## Acerca de mi :raising_hand_man:
-Soy desarrollador web full stack con vocacion de Frontend. 
+Soy desarrollador web full stack con orientación al Frontend. 
 
-Tras incursionar de forma autodidacta en la programación, me sumergí de lleno en el desarrollo web a través de un bootcamp full stack web. 
+Tras incursionar de forma autodidacta en la programación, me sumergí de lleno en el desarrollo a través de un bootcamp full stack web. 
 
 En Bosonit me he dedicado a diversificar mi stack de tecnologías, y al desarrollo de habilidades blandas. 
 
@@ -25,7 +25,7 @@ Convertir mi experiencia y formación en valor relevante mientras aprendo nuevas
 ## Mi experiencia no-IT :bank:
 
 - Durante varios años trabajé como economista en el sector bancario de Venezuela, seis de ellos en la filial del BBVA. 
-Allí trabajé en contextos bilingues y aprendí a maximizar el valor entregado al cliente con el mínimo consumo de recursos 
+Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregado al cliente con el mínimo consumo de recursos 
 (filosofía LEAN). 
 
 - En España he trabajado además como traductor y, por primera vez, como profesor de inglés. En este rol aprendí a empatizar con mis alumnos, entender sus necesidades y comunicarles claramente mis ideas
