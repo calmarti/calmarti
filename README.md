@@ -28,7 +28,7 @@ Convertir mi experiencia y formación en valor mientras aprendo nuevas tecnolog�
 Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregado al cliente con el mínimo consumo de recursos 
 (filosofía LEAN). 
 
-- En España he trabajado además como traductor y, ocasionalmente, como profesor de inglés. En este rol aprendí a empatizar con mis alumnos, entender sus necesidades y comunicarles claramente mis ideas
+- En España he trabajado además como traductor y, ocasionalmente, como profesor de inglés. En este rol aprendí a empatizar con el alumnos, entender sus necesidades y comunicarle claramente mis ideas
 
 ---
 
