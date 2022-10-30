@@ -17,7 +17,7 @@ En Bosonit me he dedicado a diversificar mi stack de tecnologías, y al desarrol
 ---
 
 ## Mi objetivo :airplane:
-Convertir mi experiencia y formación en valor relevante mientras aprendo nuevas tecnologías y evoluciono como desarrollador. 
+Convertir mi experiencia y formación en valor mientras aprendo nuevas tecnologías y, durante el proceso, maximizar mi potencial como desarrollador web
 
 
 ---
@@ -28,7 +28,7 @@ Convertir mi experiencia y formación en valor relevante mientras aprendo nuevas
 Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregado al cliente con el mínimo consumo de recursos 
 (filosofía LEAN). 
 
-- En España he trabajado además como traductor y, por primera vez, como profesor de inglés. En este rol aprendí a empatizar con mis alumnos, entender sus necesidades y comunicarles claramente mis ideas
+- En España he trabajado además como traductor y, ocasionalmente, como profesor de inglés. En este rol aprendí a empatizar con mis alumnos, entender sus necesidades y comunicarles claramente mis ideas
 
 ---
 
@@ -36,7 +36,7 @@ Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregad
 
 **Front**: HTML5, CSS3, Javascript, Typescript, React (clases y hooks), Redux y Angular
 
-**Back**: Nodejs, MongoDB, MySQL
+**Back**: Nodejs, MongoDB, SQL
 
 **Testing**: Jest
 
@@ -44,13 +44,13 @@ Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregad
 
 **Linux**: nivel usuario avanzado (Ubuntu)
 
-**Pseudo-DevOps**: AWS (EC2), Nginx, protocolo SSH, Supervisor  
+**Pseudo-DevOps**: AWS (EC2), Ubuntu Server, Nginx, protocolo SSH, Supervisor  
 
 **Patrones de diseño de software**: MVC y PubSub
 
 Conozco y he utilizado las siguientes tecnologías: SQL, Python, PHP, Docker, Webpack, JQuery, Web Components y Wordpress.
 
-Suelo aplicar prácticas como clean code y DRY
+Me considero un firme devoto y practicante del Clean Code. 
 
 ---
 
