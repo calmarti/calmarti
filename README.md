@@ -50,24 +50,13 @@ Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregad
 
 Conozco y he utilizado las siguientes tecnologías: SQL, Python, PHP, Docker, Webpack, JQuery, Web Components y Wordpress.
 
-Me considero un firme devoto y practicante del Clean Code. 
+Soy un firme devoto y practicante del Clean Code. 
 
 ---
 
 ## Proyectos :mega: 
 
 - MVP de tienda online en React con componentes funcionales y hooks  ---  [chollopop-react](https://github.com/calmarti/chollopop-react)
-
-Demo online:
-
-```sh
-https://chollopopreact.calmartiportfolio.com
-```
-
-```sh 
-user: user@user.com
-password: 123
-```
 
 - MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  --- [chollopop-vanilla-js](https://github.com/calmarti/chollopop-vanilla-js)
 
@@ -76,7 +65,6 @@ password: 123
 - Desarrollo de API y backend para tienda online con Express y MongoDB  ---  [chollopop-backend-avanzado](https://github.com/calmarti/chollopop-backend-avanzado)
 
 - Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol en Javascript vanilla --- [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
-
 
 - Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  --- [simulador-enigma](https://github.com/calmarti/Enigma-flask)
 
