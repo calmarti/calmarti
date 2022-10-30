@@ -56,31 +56,31 @@ Soy un firme devoto y practicante del Clean Code.
 
 ## Proyectos :mega: 
 
-- MVP de tienda online en React con componentes funcionales y hooks  ---  [chollopop-react](https://github.com/calmarti/chollopop-react)
+- MVP de tienda online en React con componentes funcionales y hooks  - [chollopop-react](https://github.com/calmarti/chollopop-react)
 
-- MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  --- [chollopop-vanilla-js](https://github.com/calmarti/chollopop-vanilla-js)
+- MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  - [chollopop-vanilla-js](https://github.com/calmarti/chollopop-vanilla-js)
 
 <!-- -Extensión de "chollopop-react" usando Redux (chollopop-react-redux)-->
 
-- Desarrollo de API y backend para tienda online con Express y MongoDB  ---  [chollopop-backend-avanzado](https://github.com/calmarti/chollopop-backend-avanzado)
+- Desarrollo de API y backend para tienda online con Express y MongoDB  -  [chollopop-backend-avanzado](https://github.com/calmarti/chollopop-backend-avanzado)
 
-- Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol en Javascript vanilla --- [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
+- Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol en Javascript vanilla - [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
 
-- Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  --- [simulador-enigma](https://github.com/calmarti/Enigma-flask)
+- Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  - [simulador-enigma](https://github.com/calmarti/Enigma-flask)
 
 Demo online:
 ```sh
 https://b4r4th30nspa.pythonanywhere.com/
 ```
 
-- TODO list con React y Ant Design  --- [todolist-react](https://github.com/calmarti/todolist-react)
+- TODO list con React y Ant Design  - [todolist-react](https://github.com/calmarti/todolist-react)
 
 Demo online:
 ```sh
 https://todolistreact.calmartiportfolio.com
 ```
 
-- Personal Home Page de bióloga marina con React  --- [GemasPersonalWeb](https://github.com/calmarti/GemasPersonalWeb)
+- Personal Home Page de bióloga marina con React  - [GemasPersonalWeb](https://github.com/calmarti/GemasPersonalWeb)
 
 Demo online:
 ```sh
