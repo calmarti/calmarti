@@ -50,7 +50,7 @@ Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregad
 
 Conozco y he utilizado las siguientes tecnologías: SQL, Python, PHP, Docker, Webpack, JQuery, Web Components y Wordpress.
 
-Soy un firme devoto y practicante del Clean Code. 
+Soy devoto y practicante del Clean Code. 
 
 ---
 
@@ -64,7 +64,7 @@ Soy un firme devoto y practicante del Clean Code.
 
 - Desarrollo de API y backend para tienda online con Express y MongoDB  -  [chollopop-backend-avanzado](https://github.com/calmarti/chollopop-backend-avanzado)
 
-- Simulador de emparejamientos, enfrentamientos y resultados de un torneo de fútbol en Javascript vanilla - [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
+- Simulador de emparejamientos, partidos y resultados de un torneo de fútbol en Javascript vanilla - [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
 
 - Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  - [simulador-enigma](https://github.com/calmarti/Enigma-flask)
 
