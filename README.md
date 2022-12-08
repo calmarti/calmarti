@@ -80,6 +80,9 @@ Demo online:
 https://todolistreact.calmartiportfolio.com
 ```
 
+- Trofiplast - Buscador de referencias académicas en el área de ingesta de microplásticos
+
+
 - Personal Home Page de bióloga marina con React  - [GemasPersonalWeb](https://github.com/calmarti/GemasPersonalWeb)
 
 Demo online:
