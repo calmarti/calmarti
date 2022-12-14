@@ -8,11 +8,11 @@
 ---
 
 ## Acerca de mi :raising_hand_man:
-Soy desarrollador web full stack con orientación al Frontend. 
+Soy desarrollador web full stack con orientación al front
 
 Tras incursionar de forma autodidacta en la programación, me sumergí de lleno en el desarrollo a través de un bootcamp full stack web. 
 
-En Bosonit me he dedicado a diversificar mi stack de tecnologías, y al desarrollo de habilidades blandas. 
+Desde agosto de 2022 trabajo en Bosonit, donde me he dedicado a diversificar mi stack de tecnologías, y a desarrollar mis habilidades blandas en un entorno guiado por metodologías Agile. 
 
 ---
 
