@@ -42,7 +42,7 @@ Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregad
 
 **Control de versiones**: Git y GitHub (sólo y en equipo)
 
-**Linux**: nivel usuario avanzado (Ubuntu)
+**Linux**: nivel medio (Ubuntu)
 
 **Pseudo-DevOps**: AWS (EC2), Ubuntu Server, Nginx, protocolo SSH, Supervisor  
 
