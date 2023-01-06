@@ -73,12 +73,6 @@ Demo online:
 https://b4r4th30nspa.pythonanywhere.com/
 ```
 
-- TODO list con React y Ant Design  - [todolist-react](https://github.com/calmarti/todolist-react)
-
-Demo online:
-```sh
-https://todolistreact.calmartiportfolio.com
-```
 
 - Trofiplast - Buscador de referencias académicas en ingesta de microplásticos por animales - [Trofiplast](https://trofiplast.calmartiportfolio.com/)
 
@@ -86,6 +80,15 @@ Demo online:
 ```sh
 https://trofiplast.calmartiportfolio.com/
 ```
+
+
+- TODO list con React y Ant Design  - [todolist-react](https://github.com/calmarti/todolist-react)
+
+Demo online:
+```sh
+https://todolistreact.calmartiportfolio.com
+```
+
 
 - Personal Home Page de bióloga marina con React  - [GemasPersonalWeb](https://github.com/calmarti/GemasPersonalWeb)
 
