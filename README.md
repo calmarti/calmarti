@@ -82,6 +82,10 @@ https://todolistreact.calmartiportfolio.com
 
 - Trofiplast - Buscador de referencias académicas en ingesta de microplásticos por animales - [Trofiplast](https://trofiplast.calmartiportfolio.com/)
 
+Demo online:
+```sh
+https://trofiplast.calmartiportfolio.com/
+```
 
 - Personal Home Page de bióloga marina con React  - [GemasPersonalWeb](https://github.com/calmarti/GemasPersonalWeb)
 
