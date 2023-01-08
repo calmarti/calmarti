@@ -50,7 +50,7 @@ Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregad
 
 Conozco y he utilizado las siguientes tecnologías: SQL, Python, PHP, Docker, Webpack, JQuery, Web Components y Wordpress.
 
-Soy creyente y practicante del Clean Code. 
+Soy creyente y e intento ser practicante del Clean Code. 
 
 ---
 
