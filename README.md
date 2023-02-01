@@ -92,10 +92,7 @@ https://todolistreact.calmartiportfolio.com
 
 - Personal Home Page de bióloga marina con React  - [GemasPersonalWeb](https://github.com/calmarti/GemasPersonalWeb)
 
-Demo online:
-```sh
-https://gemahernandezmilian.calmartiportfolio.com
-```
+
 
 ---
 
