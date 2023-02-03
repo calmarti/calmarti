@@ -56,7 +56,7 @@ Soy creyente y e intento ser practicante del Clean Code.
 
 ## Proyectos desplegados :mega: 
 
-- Chollopop: MVP de tienda online de segunda mano - React, CSS puro, Express y MongoDB  - [chollopop-react](https://github.com/calmarti/chollopop-frontend)
+- Chollopop: MVP de tienda online de segunda mano - React, CSS puro, Express y MongoDB  - [chollopop-react](https://github.com/calmarti/chollopop-react)
 
 ```sh
 https://chollopopreact.calmartiportfolio.com
