@@ -56,17 +56,10 @@ Soy creyente y e intento ser practicante del Clean Code.
 
 ## Proyectos desplegados :mega: 
 
-- Chollopop: MVP de tienda online de segunda mano - React, CSS puro, Express y MongoDB  - [chollopop-react](https://github.com/calmarti/chollopop-react)
+- Chollopop: MVP de tienda online de segunda mano - React, CSS puro y MongoDB - [chollopop-react](https://github.com/calmarti/chollopop-react)
 
 ```sh
 https://chollopopreact.calmartiportfolio.com
-```
-
-- Simulador de máquina Enigma (II Guerra Mundial) - Python y Flask  - [simulador-enigma](https://github.com/calmarti/Enigma-flask)
-
-Demo online:
-```sh
-https://b4r4th30nspa.pythonanywhere.com/
 ```
 
 - Trofiplast - Buscador de referencias académicas de ocurrencias de ingesta de microplásticos por animales - React, React-Bootstrap, Express y MongoDB - 
@@ -77,6 +70,13 @@ Demo online:
 https://trofiplast.calmartiportfolio.com/
 ```
 
+- Simulador de máquina Enigma (II Guerra Mundial) - Python y Flask  - [simulador-enigma](https://github.com/calmarti/Enigma-flask)
+
+Demo online:
+```sh
+https://b4r4th30nspa.pythonanywhere.com/
+```
+
 
 ## Otros proyectos
 
@@ -84,7 +84,7 @@ https://trofiplast.calmartiportfolio.com/
 
 - Personal Home Page de bióloga marina con React  - [GemasPersonalWeb](https://github.com/calmarti/GemasPersonalWeb)
 
-- MVP de tienda online en React con componentes funcionales y hooks  - [chollopop-react](https://github.com/calmarti/chollopop-react)
+- MVP de tienda online en React con componentes funcionales, hooks y Redux - [chollopop-react](https://github.com/calmarti/chollopop-react-redux)
 
 - MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  - [chollopop-vanilla-js](https://github.com/calmarti/chollopop-vanilla-js)
 
