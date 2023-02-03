@@ -62,9 +62,7 @@ Soy creyente y e intento ser practicante del Clean Code.
 https://chollopopreact.calmartiportfolio.com
 ```
 
-- Trofiplast - Buscador de referencias académicas de ocurrencias de ingesta de microplásticos por animales - React, React-Bootstrap, Express y MongoDB -
-
-[Trofiplast](https://github.com/calmarti/trofiplast-frontend)
+- Trofiplast - Buscador de referencias académicas de ocurrencias de ingesta de microplásticos por animales - React, React-Bootstrap, Express y MongoDB - [Trofiplast](https://github.com/calmarti/trofiplast-frontend)
 
 Demo online:
 ```sh
