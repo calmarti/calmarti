@@ -48,7 +48,7 @@ Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregad
 
 **Patrones de diseño de software**: MVC y PubSub
 
-Conozco y he utilizado las siguientes tecnologías: SQL, Python, PHP, Docker, Webpack, JQuery, Web Components y Wordpress.
+Conozco y he utilizado las siguientes tecnologías:  Python, PHP, Docker, Webpack, JQuery, Web Components y Wordpress.
 
 Soy creyente y e intento ser practicante del Clean Code. 
 
