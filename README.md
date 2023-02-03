@@ -54,17 +54,13 @@ Soy creyente y e intento ser practicante del Clean Code.
 
 ---
 
-## Proyectos :mega: 
+## Proyectos desplegados :mega: 
 
-- MVP de tienda online en React con componentes funcionales y hooks  - [chollopop-react](https://github.com/calmarti/chollopop-react)
+- Chollopop: MVP de tienda online de segunda mano - React y CSS puro
 
-- MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  - [chollopop-vanilla-js](https://github.com/calmarti/chollopop-vanilla-js)
-
-<!-- -Extensión de "chollopop-react" usando Redux (chollopop-react-redux)-->
-
-- Desarrollo de API y backend para tienda online con Express y MongoDB  -  [chollopop-backend-avanzado](https://github.com/calmarti/chollopop-backend-avanzado)
-
-- Simulador de emparejamientos, partidos y resultados de un torneo de fútbol en Javascript vanilla - [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
+```sh
+https://chollopopreact.calmartiportfolio.com
+```
 
 - Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  - [simulador-enigma](https://github.com/calmarti/Enigma-flask)
 
@@ -73,8 +69,7 @@ Demo online:
 https://b4r4th30nspa.pythonanywhere.com/
 ```
 
-
-- Trofiplast - Buscador de referencias académicas en ingesta de microplásticos por animales - [Trofiplast](https://trofiplast.calmartiportfolio.com/)
+- Trofiplast - Buscador de referencias académicas de ocurrencias de ingesta de microplásticos por animales - [Trofiplast]([https://github.com/calmarti/trofiplast-frontend))
 
 Demo online:
 ```sh
@@ -82,16 +77,19 @@ https://trofiplast.calmartiportfolio.com/
 ```
 
 
+## Otros proyectos
+
 - TODO list con React y Ant Design  - [todolist-react](https://github.com/calmarti/todolist-react)
-
-Demo online:
-```sh
-https://todolistreact.calmartiportfolio.com
-```
-
 
 - Personal Home Page de bióloga marina con React  - [GemasPersonalWeb](https://github.com/calmarti/GemasPersonalWeb)
 
+- MVP de tienda online en React con componentes funcionales y hooks  - [chollopop-react](https://github.com/calmarti/chollopop-react)
+
+- MVP de tienda online en javascript vanilla usando los patrones MVC y Publisher-Subscriber  - [chollopop-vanilla-js](https://github.com/calmarti/chollopop-vanilla-js)
+
+- Desarrollo de API y backend para tienda online con Express y MongoDB  -  [chollopop-backend-avanzado](https://github.com/calmarti/chollopop-backend-avanzado)
+
+- Simulador de emparejamientos, partidos y resultados de un torneo de fútbol en Javascript vanilla - [euroUEFASimulator](https://github.com/calmarti/euroUEFASimulator)
 
 
 ---
