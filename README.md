@@ -56,20 +56,21 @@ Soy creyente y e intento ser practicante del Clean Code.
 
 ## Proyectos desplegados :mega: 
 
-- Chollopop: MVP de tienda online de segunda mano - React y CSS puro
+- Chollopop: MVP de tienda online de segunda mano - React, CSS puro, Express y MongoDB  - [chollopop-react](https://github.com/calmarti/chollopop-frontend)
 
 ```sh
 https://chollopopreact.calmartiportfolio.com
 ```
 
-- Simulador de máquina Enigma (II Guerra Mundial) en Python y Flask  - [simulador-enigma](https://github.com/calmarti/Enigma-flask)
+- Simulador de máquina Enigma (II Guerra Mundial) - Python y Flask  - [simulador-enigma](https://github.com/calmarti/Enigma-flask)
 
 Demo online:
 ```sh
 https://b4r4th30nspa.pythonanywhere.com/
 ```
 
-- Trofiplast - Buscador de referencias académicas de ocurrencias de ingesta de microplásticos por animales - [Trofiplast]([https://github.com/calmarti/trofiplast-frontend))
+- Trofiplast - Buscador de referencias académicas de ocurrencias de ingesta de microplásticos por animales - React, React-Bootstrap, Express y MongoDB - 
+[Trofiplast]([https://github.com/calmarti/trofiplast-frontend))
 
 Demo online:
 ```sh
