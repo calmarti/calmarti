@@ -42,7 +42,7 @@ Allí aprendí a trabajar en entornos bilingües y a maximizar el valor entregad
 
 **Control de versiones**: Git y GitHub (sólo y en equipo)
 
-**Linux**: conocimientos de bash y de configuración para el despliegue en Ubuntu Server
+**Linux**: conocimientos básicos de bash
 
 **Pseudo-DevOps**: AWS (EC2), Ubuntu Server, Nginx, protocolo SSH, Supervisor  
 
