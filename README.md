@@ -7,7 +7,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=calmarti&title=Commits,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=calmarti&title=Commits,Repositories,PullRequests,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
