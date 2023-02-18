@@ -7,6 +7,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=calmarti)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## Acerca de mi :raising_hand_man:
 Soy desarrollador web full stack con orientación al front
 
