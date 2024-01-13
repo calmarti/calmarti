@@ -1,5 +1,5 @@
 # Iván Martínez C.  
-### Frontend Associate Consultant - Bosonit
+### Full stack web developer
 
  :house_with_garden: Vigo, Pontevedra
  
