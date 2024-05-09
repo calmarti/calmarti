@@ -1,5 +1,5 @@
 # Iván Martínez C.  
-### Full stack web developer
+### QA tester and full stack web developer
 
  :house_with_garden: Vigo, Pontevedra
  
@@ -14,10 +14,11 @@
 ## Acerca de mi :raising_hand_man:
 Soy desarrollador web full stack con orientación al front
 
-Tras incursionar de forma autodidacta en la programación, me sumergí de lleno en el desarrollo a través de un bootcamp full stack web. 
+Tras incursionar de forma autodidacta en la programación, me sumergí de lleno en el desarrollo a través del bootcamp full stack web de KeepCoding
 
-Desde agosto de 2022 trabajo en Bosonit, donde me he dedicado a diversificar mi stack de tecnologías, y a desarrollar mis habilidades blandas en un entorno guiado por metodologías Agile. 
+Desde marzo de 2023 trabajo como QA tester en Bosonit
 
+...pero conservo el espíritu full-stack!
 ---
 
 ## Mi objetivo :airplane:
