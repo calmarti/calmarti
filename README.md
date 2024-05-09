@@ -18,7 +18,7 @@ Tras incursionar de forma autodidacta en la programación, me sumergí de lleno 
 
 Desde marzo de 2023 trabajo como QA tester en Bosonit
 
-...pero conservo el espíritu full-stack!
+...pero aún conservo el espíritu full-stack!
 
 ---
 
