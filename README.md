@@ -16,7 +16,7 @@ Soy desarrollador web full stack con orientación al front
 
 Tras incursionar de forma autodidacta en la programación, me sumergí de lleno en el desarrollo a través del bootcamp full stack web de KeepCoding
 
-Desde marzo de 2023 trabajo como QA tester en Bosonit
+Desde marzo de 2023 trabajo como QA tester 
 
 ...pero aún conservo el espíritu full-stack!
 
