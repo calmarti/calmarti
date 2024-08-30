@@ -1,7 +1,7 @@
 # Iván Martínez C.  
 ### QA tester and full stack web developer
 
- :house_with_garden: Vigo, Pontevedra
+ :house_with_garden:
  
 <!-- :trolleybus: Disponibilidad inmediata para cambiar de ciudad :heavy_check_mark: -->
 
