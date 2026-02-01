@@ -8,7 +8,7 @@
 ---
 
 ## Acerca de mi :raising_hand_man:
-Soy desarrollador web full stack con orientación al front
+Soy desarrollador web full stack 
 
 Tras incursionar de forma autodidacta en la programación, me sumergí de lleno en el desarrollo a través del bootcamp full stack web de KeepCoding
 
