@@ -1,5 +1,5 @@
 # Iván Martínez C.  
-### QA tester and full stack web developer
+### QA tester
 
  :house_with_garden:
  
